@@ -1,0 +1,1 @@
+Doc disponible en anonyme sur /api/docs
