@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b90f9687-432e-4b36-8650-2837f6e25bb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +109,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -124,11 +123,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599635361797</updated>
-      <workItem from="1599635363226" duration="382000" />
+      <workItem from="1599635363226" duration="1266000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="24" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599636255355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="24" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599636255355" />
+    <state width="252" height="457" key="HiddenNamespacesPopup" timestamp="1599636387017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="252" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1599636387017" />
   </component>
 </project>
